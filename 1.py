@@ -2,6 +2,6 @@ import os
 import sys
 
 def func():
-    print "asdfasdf"
+    print "BBBBBBasdfasdf"
     sys.exit(1)
 
